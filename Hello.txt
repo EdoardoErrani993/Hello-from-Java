@@ -6,4 +6,8 @@ second line
 
 third line
 
+<<<<<<< HEAD
 ciao
+=======
+roba
+>>>>>>> 2ff20940281128b6401d057fd2361b48fecb0c2e
